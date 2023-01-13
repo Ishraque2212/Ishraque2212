@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%23+Welcome+To+My+Github+Account" alt="Typing SVG"> </a>
+
 <h1 align="center">Hi 👋, I'm Ishraque Ahmed Ansari </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif">
